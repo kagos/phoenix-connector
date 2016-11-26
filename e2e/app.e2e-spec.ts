@@ -1,7 +1,7 @@
 import { PhoenixConnectorPage } from './app.po';
 
 describe('phoenix-connector App', function() {
-  let page: PheonixConPage;
+  let page: PhoenixConnectorPage;
 
   beforeEach(() => {
     page = new PhoenixConnectorPage();
